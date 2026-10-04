@@ -20,8 +20,8 @@ Abra o arquivo `index.html` em qualquer navegador (celular ou computador). Não 
 # clone o repositório e abra o arquivo
 git clone <url-do-repositorio>
 cd <repositorio>
-open contas-do-mes.html   # macOS
-# ou: start contas-do-mes.html (Windows) / xdg-open contas-do-mes.html (Linux)
+open index.html   # macOS
+# ou: start index.html (Windows) / xdg-open index.html (Linux)
 ```
 
 Também pode ser hospedado como uma página estática (GitHub Pages, Netlify, Vercel etc.), já que é um único arquivo autocontido.
@@ -37,7 +37,7 @@ Por isso:
 
 ## Tecnologia
 
-HTML, CSS e JavaScript puro, em um único arquivo, sem dependências externas e sem build. O código fica em `contas-do-mes.html`.
+HTML, CSS e JavaScript puro, em um único arquivo, sem dependências externas e sem build. O código fica em `index.html`.
 
 ## Roteiro (v2)
 
